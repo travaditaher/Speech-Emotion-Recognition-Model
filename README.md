@@ -22,7 +22,6 @@ To bypass the tunnel and access the system directly, use the following IP addres
 - Streamlit
 - Numpy
 - Librosa
-- Pydub
 - TensorFlow
 - Scikit-learn
 
